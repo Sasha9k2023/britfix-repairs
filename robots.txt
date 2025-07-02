@@ -1,12 +1,9 @@
 User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
+Allow: /
 
 
 Disallow: /cgi-bin/
-Disallow: /wp-includes/
-Disallow: /?s=  
-Disallow: /search/
-Disallow: /private/  
+Disallow: /private/
+
 
 Sitemap: https://britfix-repairs.co.uk/sitemap.xml
