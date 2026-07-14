@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <title>QSC K8 K10 K12.2 KS212C KLA12 Repair Service UK | Britfix Repairs</title>
+
+  <meta name="description" content="Professional QSC speaker repair service in the UK for QSC K8, K10, K12.2, KS212C and KLA12. We repair protect mode, no power, no sound, amplifier module and power supply faults. UK-wide mail-in service available." />
+
+  <meta name="keywords" content="QSC repair UK, QSC K12.2 repair, QSC K10 repair, QSC K8 repair, QSC KS212C repair, QSC KLA12 repair, QSC speaker protect mode repair, QSC amplifier module repair, powered speaker repair UK, Britfix Repairs" />
+
+  <meta name="robots" content="index, follow" />
+
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Nunito|Poppins" rel="stylesheet" />
+
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+```
+  <h1 class="logo">
+    <a href="index.html">BRITFIX REPAIRS</a>
+  </h1>
+
+  <nav id="navbar" class="navbar">
+    <ul>
+      <li><a class="nav-link scrollto" href="index.html#hero">Home</a></li>
+      <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
+      <li><a class="nav-link scrollto" href="index.html#services">Services</a></li>
+      <li><a class="nav-link scrollto" href="index.html#team">Devices</a></li>
+      <li><a class="nav-link scrollto" href="index.html#prices">Prices</a></li>
+      <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
+    </ul>
+
+    <i class="bi bi-list mobile-nav-toggle"></i>
+  </nav>
+
+</div>
+```
+
+  </header>
+
+  <main id="main" style="margin-top: 100px;">
+
+```
+<section class="d-flex justify-content-center align-items-center"
+  style="background-color: #f8f9fa; padding: 40px 20px;">
+
+  <div class="text-center">
+
+    <img
+      src="assets/img/team/qsc-repair.jpg"
+      alt="QSC K8 K10 K12.2 KS212C KLA12 speaker repair service UK"
+      style="max-width: 100%; height: auto; max-height: 420px; object-fit: contain; border-radius: 10px; box-shadow: 0 0 12px rgba(0,0,0,0.15);">
+
+    <h1 class="mt-4">QSC K8, K10, K12.2, KS212C and KLA12 Repairs</h1>
+
+    <p style="font-size: 1.2rem;">
+      Professional component-level repairs for QSC powered speakers, subwoofers and amplifier modules
+    </p>
+
+  </div>
+</section>
+
+<section class="container py-5">
+  <div class="row">
+    <div class="col-lg-12">
+
+      <p>
+        At <strong>Britfix Repairs</strong>, we provide professional
+        <strong>QSC powered speaker repair services</strong> for customers across the UK.
+        We specialise in component-level diagnostics and repair of amplifier modules,
+        power supplies, DSP boards and protection circuit faults.
+      </p>
+
+      <p>
+        We regularly repair QSC professional audio equipment including
+        <strong>QSC K8, K10, K12.2, KS212C and KLA12</strong>.
+        In many cases, the amplifier module or electronic board can be repaired without
+        replacing the complete speaker or purchasing an expensive replacement module.
+      </p>
+
+      <h2 class="mt-4">QSC Models We Repair</h2>
+
+      <ul>
+        <li>
+          <i class="ri-check-double-line"></i>
+          QSC K8 and K8.2 powered speakers
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          QSC K10 and K10.2 powered speakers
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          QSC K12 and K12.2 powered speakers
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          QSC KS212C cardioid subwoofers
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          QSC KLA12 line array powered speakers
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          QSC amplifier modules, DSP boards and power supply boards
+        </li>
+      </ul>
+
+      <h2 class="mt-4">Common QSC Faults We Repair</h2>
+
+      <ul>
+        <li>⛔ Speaker has no power or appears completely dead</li>
+        <li>⚠️ QSC speaker stuck in protect mode</li>
+        <li>🔇 No sound from the speaker</li>
+        <li>🔉 Very low, distorted or intermittent output</li>
+        <li>🔁 Speaker continuously restarts or reboots</li>
+        <li>🔥 Burning smell, blown components or short circuit</li>
+        <li>🔌 Power supply failure or damaged power section</li>
+        <li>🎚️ Amplifier module failure</li>
+        <li>💻 DSP board, firmware or startup fault</li>
+        <li>🌡️ Speaker shuts down after warming up</li>
+        <li>💡 Display or power indicator turns on but there is no audio</li>
+        <li>⚡ Fuse blows immediately after switching on</li>
+      </ul>
+
+      <h2 class="mt-4">QSC K12.2 Protect Mode Repair</h2>
+
+      <p>
+        One of the most common faults affecting the
+        <strong>QSC K12.2</strong> is a protect mode or startup problem.
+        The speaker may display a protect message, fail to produce sound,
+        restart repeatedly or stop during operation.
+      </p>
+
+      <p>
+        These faults can be caused by problems in the amplifier section,
+        power supply, DSP board, firmware, output stage or protection circuitry.
+        We carry out detailed diagnostics to identify the actual cause before repair.
+      </p>
+
+      <h2 class="mt-4">QSC KS212C and KLA12 Repair</h2>
+
+      <p>
+        We also repair electronic faults in the
+        <strong>QSC KS212C cardioid subwoofer</strong> and
+        <strong>QSC KLA12 line array speaker</strong>.
+        Common problems include no power, protection mode, amplifier failure,
+        power supply faults, distorted sound and intermittent operation.
+      </p>
+
+      <p>
+        Depending on the fault, you may be able to send only the amplifier panel
+        or electronic module instead of shipping the complete speaker.
+        Please contact us before posting the unit so we can confirm what needs to be sent.
+      </p>
+
+      <h2 class="mt-4">How Our QSC Repair Service Works</h2>
+
+      <ol>
+        <li>
+          Contact us with the exact QSC model and a description of the fault.
+        </li>
+
+        <li>
+          Send photos or a short video showing the problem where possible.
+        </li>
+
+        <li>
+          We will confirm whether you should send the complete speaker,
+          amplifier panel or electronic board.
+        </li>
+
+        <li>
+          Package the item securely and include your name,
+          phone number and return address inside the parcel.
+        </li>
+
+        <li>
+          We will inspect the equipment, complete the repair and test it before return.
+        </li>
+      </ol>
+
+      <h2 class="mt-4">UK-Wide Mail-In QSC Repair Service</h2>
+
+      <p>
+        Our workshop is based in London, and we accept QSC repairs from customers
+        throughout the United Kingdom.
+      </p>
+
+      <p>
+        You can send your QSC amplifier module, rear panel or complete unit using
+        a tracked and insured courier service. After repair, the equipment will be
+        tested and securely packaged for return delivery.
+      </p>
+
+      <h2 class="mt-4">Why Choose Britfix Repairs?</h2>
+
+      <ul>
+        <li>
+          <i class="ri-check-double-line"></i>
+          Professional component-level electronic repair
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          Experience with QSC professional audio equipment
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          Power supply, DSP and amplifier module diagnostics
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          Repair may be more economical than replacing the complete module
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          UK-wide tracked mail-in service
+        </li>
+
+        <li>
+          <i class="ri-check-double-line"></i>
+          Equipment fully tested before return
+        </li>
+      </ul>
+
+      <div class="alert alert-warning mt-4" role="alert">
+        <strong>Important:</strong>
+        Please do not send your QSC speaker or amplifier module before contacting us.
+        Confirm the model, describe the fault and send photos where possible.
+      </div>
+
+      <div class="text-center mt-4">
+        <a href="index.html#contact" class="btn btn-primary btn-lg">
+          Contact Us About Your QSC Repair
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+```
+
+  </main>
+
+  <footer id="footer" class="footer">
+    <div class="container">
+
+```
+  <div class="row">
+
+    <div class="col-lg-6 footer-contact">
+
+      <h3>Britfix Repairs</h3>
+
+      <p>
+        London, CR7 7AW<br>
+        United Kingdom<br><br>
+
+        <strong>Phone:</strong> 07379 447387 — text messages only<br>
+        <strong>Email:</strong> isound.vol@gmail.com<br>
+      </p>
+
+    </div>
+
+    <div class="col-lg-6 footer-links">
+
+      <h4>Useful Links</h4>
+
+      <ul>
+        <li>
+          <i class="bx bx-chevron-right"></i>
+          <a href="index.html#hero">Home</a>
+        </li>
+
+        <li>
+          <i class="bx bx-chevron-right"></i>
+          <a href="index.html#about">About</a>
+        </li>
+
+        <li>
+          <i class="bx bx-chevron-right"></i>
+          <a href="index.html#services">Services</a>
+        </li>
+
+        <li>
+          <i class="bx bx-chevron-right"></i>
+          <a href="index.html#contact">Contact</a>
+        </li>
+      </ul>
+
+    </div>
+
+  </div>
+
+  <div class="text-center mt-4">
+    &copy; 2026 <strong>Britfix Repairs</strong>. All rights reserved.
+  </div>
+
+</div>
+```
+
+  </footer>
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+    <i class="bi bi-arrow-up-short"></i>
+  </a>
+
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
