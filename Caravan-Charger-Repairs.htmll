@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Caravan Charger Repairs UK | Britfix Repairs</title>
+
+  <meta name="description"
+        content="Caravan and motorhome charger repairs in the UK. Repairs for Powerpart P0120, P0123, caravan 10A power units, Zig chargers and leisure battery charging faults.">
+
+  <meta name="keywords"
+        content="caravan charger repair UK, Powerpart P0120 repair, Powerpart P0123 repair, Zig charger repair, caravan PSU repair, motorhome charger repair">
+
+  <meta name="robots" content="index, follow">
+
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Nunito|Poppins" rel="stylesheet">
+
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <link href="assets/css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+<header id="header" class="fixed-top">
+  <div class="container d-flex align-items-center justify-content-between">
+
+    <h1 class="logo">
+      <a href="index.html">BRITFIX REPAIRS</a>
+    </h1>
+
+    <nav id="navbar" class="navbar">
+      <ul>
+        <li><a class="nav-link scrollto" href="index.html#hero">Home</a></li>
+        <li><a class="nav-link scrollto" href="index.html#about">About</a></li>
+        <li><a class="nav-link scrollto" href="index.html#services">Services</a></li>
+        <li><a class="nav-link scrollto" href="index.html#team">Devices</a></li>
+        <li><a class="nav-link scrollto" href="index.html#prices">Prices</a></li>
+        <li><a class="nav-link scrollto" href="index.html#contact">Contact</a></li>
+      </ul>
+
+      <i class="bi bi-list mobile-nav-toggle"></i>
+    </nav>
+
+  </div>
+</header>
+
+<main id="main" style="margin-top:100px;">
+
+  <section class="d-flex justify-content-center align-items-center"
+           style="background-color:#f8f9fa; padding:40px 20px;">
+
+    <div class="text-center">
+
+     <img src="assets/img/team/chargers.jpg"
+     alt="Caravan and Motorhome Charger Repairs UK"
+     style="max-width:100%; height:auto; max-height:420px; object-fit:contain;">
+
+      <h1 class="mt-4">Caravan and Motorhome Charger Repairs</h1>
+
+      <p style="font-size:1.2rem;">
+        Professional repairs for caravan power supplies, battery chargers
+        and leisure battery charging systems throughout the UK.
+      </p>
+
+    </div>
+
+  </section>
+
+  <section class="container py-5">
+
+    <p>
+      At <strong>Britfix Repairs</strong>, we specialise in
+      <strong>component-level caravan charger and PSU repairs</strong>.
+      We repair charging units, power supplies, transformers, control circuits
+      and damaged electronic components where possible.
+    </p>
+
+    <p>
+      Common faults include no charging output, incorrect battery voltage,
+      blown fuses, intermittent operation, overheating, damaged power components
+      and complete power failure.
+    </p>
+
+    <h2 class="mt-4">Chargers and Power Units We Repair</h2>
+
+    <ul>
+      <li>
+        <i class="ri-check-double-line"></i>
+        <a href="Powerpart-P0120-Repairs.html">
+          Powerpart P0120 12V 20A Charger PSU Repairs
+        </a>
+      </li>
+
+      <li>
+        <i class="ri-check-double-line"></i>
+        <a href="Powerpart-P0123-Repairs.html">
+          Powerpart P0123 Three-Stage Charger Repairs
+        </a>
+      </li>
+
+      <li>
+        <i class="ri-check-double-line"></i>
+        <a href="Caravan-10A-PSU-Repairs.html">
+          Caravan 10A Power Unit and Transformer Repairs
+        </a>
+      </li>
+
+      <li>
+        <i class="ri-check-double-line"></i>
+        <a href="Zig-Charger-Repairs.html">
+          Zig Charger Repairs
+        </a>
+      </li>
+
+      <li>
+        <i class="ri-check-double-line"></i>
+        <a href="Leisure-Battery-Charger-Repairs.html">
+          Leisure Battery Charging Faults
+        </a>
+      </li>
+    </ul>
+
+    <h2 class="mt-4">Common Charger Faults We Repair</h2>
+
+    <ul>
+      <li>🔴 No power or completely dead unit</li>
+      <li>🔋 Leisure battery not charging</li>
+      <li>⚡ Low or unstable charging voltage</li>
+      <li>🔥 Overheating or burning smell</li>
+      <li>🔌 Blown fuse or short circuit</li>
+      <li>🛠 Damaged transformer or power components</li>
+      <li>⚠ Intermittent charging operation</li>
+      <li>📉 Battery voltage dropping under load</li>
+    </ul>
+
+    <p>
+      We provide a UK-wide tracked postal repair service for caravan and
+      motorhome charging equipment.
+    </p>
+
+    <div class="text-center mt-4">
+      <a href="index.html#contact" class="btn btn-primary">
+        Contact Us To Book Repair
+      </a>
+    </div>
+
+  </section>
+
+</main>
+
+<footer id="footer" class="footer">
+
+  <div class="container">
+    <div class="row">
+
+      <div class="col-lg-6 footer-contact">
+        <h3>Britfix Repairs</h3>
+
+        <p>
+          London, CR7 7AW<br>
+          United Kingdom<br><br>
+
+          <strong>Phone:</strong> 07379 447387 (text only)<br>
+          <strong>Email:</strong> isound.vol@gmail.com<br>
+        </p>
+      </div>
+
+      <div class="col-lg-6 footer-links">
+        <h4>Useful Links</h4>
+
+        <ul>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.html#hero">Home</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.html#about">About</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.html#services">Services</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="index.html#contact">Contact</a></li>
+        </ul>
+      </div>
+
+    </div>
+
+    <div class="text-center mt-4">
+      &copy; 2026 <strong>Britfix Repairs</strong>. All rights reserved.
+    </div>
+  </div>
+
+</footer>
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+  <i class="bi bi-arrow-up-short"></i>
+</a>
+
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
